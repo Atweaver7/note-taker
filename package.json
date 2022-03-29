@@ -2,7 +2,7 @@
   "name": "note-taker",
   "version": "1.0.0",
   "description": "A simple app for writing and logging notes",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Atweaver7/note-taker.git"
   },
+  
   "author": "Aaron",
   "license": "ISC",
   "bugs": {
