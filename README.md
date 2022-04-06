@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 Note-Taker
 
@@ -12,22 +11,17 @@ Tests
 Questions
 Description
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. So I created an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+
 Languages and Tools:
 Visual Studio Code
 
-HTML5
-
-CSS3
-
-JavaScript
-
-Node.js
-
-Git
-
-GitHub
-
-Terminal
+1: HTML5
+2: CSS3
+3: JavaScript
+4: Node.js
+5: Git
+6: GitHub
+7: Terminal
 
 
 
@@ -39,6 +33,6 @@ Usage
 - Application should allow users to view previously saved notes.
 - Application should allow users to delete previously saved notes.
 Tests
-To run tests, run the following command:
+To run server, run the following command:
 server.js
->>>>>>> b2c930d95ec22b93fa56af6493167dbd504d74d1
+
