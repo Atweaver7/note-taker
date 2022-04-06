@@ -23,7 +23,7 @@ Visual Studio Code
 6: GitHub
 7: Terminal
 
-
+Deployed App: https://sheltered-depths-16154.herokuapp.com/
 
 Installation
 To install necessary dependencies, run the following command:
